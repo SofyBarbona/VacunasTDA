@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1667167526 source:c:\users\ian28\onedrive\escritorio\sofi\vacunas\ciudadano.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ciudadano.h"
+	"vacuna.h"
+
+1667167520 c:\users\ian28\onedrive\escritorio\sofi\vacunas\ciudadano.h
+
+1667167520 c:\users\ian28\onedrive\escritorio\sofi\vacunas\vacuna.h
+
+1667167583 source:c:\users\ian28\onedrive\escritorio\sofi\vacunas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ciudadano.h"
+	"vacuna.h"
+
+1667167520 source:c:\users\ian28\onedrive\escritorio\sofi\vacunas\vacuna.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ciudadano.h"
+	"vacuna.h"
+
+1684947549 source:c:\users\sofibarbona\desktop\vacunas-20230524t154739z-001\vacunas\ciudadano.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ciudadano.h"
+	"vacuna.h"
+
+1667153120 c:\users\sofibarbona\desktop\vacunas-20230524t154739z-001\vacunas\ciudadano.h
+
+1667153120 c:\users\sofibarbona\desktop\vacunas-20230524t154739z-001\vacunas\vacuna.h
+
+1667153120 source:c:\users\sofibarbona\desktop\vacunas-20230524t154739z-001\vacunas\vacuna.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ciudadano.h"
+	"vacuna.h"
+
+1684947177 source:c:\users\sofibarbona\desktop\vacunas-20230524t154739z-001\vacunas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ciudadano.h"
+	"vacuna.h"
+
